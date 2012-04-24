@@ -1,0 +1,11 @@
+[user]
+	name = Dave Woodward
+	email = dave@futuremint.com
+[color]
+	ui = true
+[alias]
+	s = status
+	cm = commit -m
+	d = diff
+	dc = diff --cached
+	co = checkout
